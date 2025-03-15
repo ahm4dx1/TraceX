@@ -12,8 +12,8 @@
 - 🎨 **Modern UI** - Built with **PyQt6** for a sleek and easy-to-use interface.
 - 🚀 **Multi-threaded Execution** - Fast and efficient data retrieval.
 
-## 📷 Screenshots
-(Include screenshots of your UI here)
+
+
 
 ## 📥 Installation & Usage
 ### Prerequisites
